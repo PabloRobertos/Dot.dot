@@ -1,11 +1,4 @@
- --[[
-
- XDLOOOOOOOOOOOOOOOOOOOOOOOOOOL ASTRO
- ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝ ╚══╝╚══╝ 
- 
- ]]
-
- local CC = game:GetService"Workspace".CurrentCamera
+local CC = game:GetService"Workspace".CurrentCamera
     local Plr
     local enabled = false
     local accomidationfactor = 0.115
